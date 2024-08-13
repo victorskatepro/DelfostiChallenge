@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DelfostiChallenge</string>
+    <string name="environment">Production Environment</string>
+</resources>

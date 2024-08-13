@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050970127815",
+    "project_id": "delfostichallengefb",
+    "storage_bucket": "delfostichallengefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050970127815:android:5b294ad7ebb6c137a26de2",
+        "android_client_info": {
+          "package_name": "com.vsaico.delfostichallenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PAfbb8l35uA-lBSxQDrPMTNQGmoAWpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050970127815:android:25058499a7e7ce22a26de2",
+        "android_client_info": {
+          "package_name": "com.vsaico.delfostichallenge.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PAfbb8l35uA-lBSxQDrPMTNQGmoAWpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
